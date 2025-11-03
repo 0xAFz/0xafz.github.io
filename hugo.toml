@@ -1,0 +1,7 @@
+baseURL = 'https://example.org/'
+languageCode = 'fa'
+title = 'AFz'
+theme = "PaperMod"
+[minify]
+  disableXML = true
+  minifyOutput = true

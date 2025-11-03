@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AFz</title>
+    <link>https://example.org/</link>
+    <description>Recent content on AFz</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>fa</language>
+    <lastBuildDate>Mon, 03 Nov 2025 02:01:18 +0330</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>کاهش تاخیر و بهبود رجیستر در بازی‌های شوتر آنلاین</title>
+      <link>https://example.org/posts/%DA%A9%D8%A7%D9%87%D8%B4-%D8%AA%D8%A7%D8%AE%DB%8C%D8%B1-%D9%88-%D8%A8%D9%87%D8%A8%D9%88%D8%AF-%D8%B1%D8%AC%DB%8C%D8%B3%D8%AA%D8%B1-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%DB%8C%D9%87%D8%A7%DB%8C-%D8%B4%D9%88%D8%AA%D8%B1-%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86/</link>
+      <pubDate>Mon, 03 Nov 2025 02:01:18 +0330</pubDate>
+      <guid>https://example.org/posts/%DA%A9%D8%A7%D9%87%D8%B4-%D8%AA%D8%A7%D8%AE%DB%8C%D8%B1-%D9%88-%D8%A8%D9%87%D8%A8%D9%88%D8%AF-%D8%B1%D8%AC%DB%8C%D8%B3%D8%AA%D8%B1-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%DB%8C%D9%87%D8%A7%DB%8C-%D8%B4%D9%88%D8%AA%D8%B1-%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86/</guid>
+      <description>&lt;p&gt;توی این پست میخوام درمورد دوتا از چیزایی که تاثیر زیادی در بهتر شدن latency توی گیم داشته صحبت کنم&lt;br&gt;
+و اونا Qdisc یا Queue Discipline
+و Active Queue Management یا AQM هستن&lt;/p&gt;
+&lt;p&gt;فرض کنید که رفتید یدونه نون بگیرید و خیلی عجله دارید اما از شانس بدتون یه نفر دیگه تو صف جلوی شماست و گفته ۳۰۰ تا نون میخوام 🤣&lt;br&gt;
+و تو بدترین حالت شما باید صبر کنید تا نفر جلویی تمام اون ۳۰۰ تا نون رو جمع  کنه و بره تا شما بتونید یدونه نون بگیرید&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

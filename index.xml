@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>AFz</title>
-    <link>https://example.org/</link>
+    <link>https://0xafz.github.io/</link>
     <description>Recent content on AFz</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>fa</language>
     <lastBuildDate>Mon, 03 Nov 2025 02:01:18 +0330</lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://0xafz.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>کاهش تاخیر و بهبود رجیستر در بازی‌های شوتر آنلاین</title>
-      <link>https://example.org/posts/%DA%A9%D8%A7%D9%87%D8%B4-%D8%AA%D8%A7%D8%AE%DB%8C%D8%B1-%D9%88-%D8%A8%D9%87%D8%A8%D9%88%D8%AF-%D8%B1%D8%AC%DB%8C%D8%B3%D8%AA%D8%B1-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%DB%8C%D9%87%D8%A7%DB%8C-%D8%B4%D9%88%D8%AA%D8%B1-%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86/</link>
+      <link>https://0xafz.github.io/posts/%DA%A9%D8%A7%D9%87%D8%B4-%D8%AA%D8%A7%D8%AE%DB%8C%D8%B1-%D9%88-%D8%A8%D9%87%D8%A8%D9%88%D8%AF-%D8%B1%D8%AC%DB%8C%D8%B3%D8%AA%D8%B1-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%DB%8C%D9%87%D8%A7%DB%8C-%D8%B4%D9%88%D8%AA%D8%B1-%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86/</link>
       <pubDate>Mon, 03 Nov 2025 02:01:18 +0330</pubDate>
-      <guid>https://example.org/posts/%DA%A9%D8%A7%D9%87%D8%B4-%D8%AA%D8%A7%D8%AE%DB%8C%D8%B1-%D9%88-%D8%A8%D9%87%D8%A8%D9%88%D8%AF-%D8%B1%D8%AC%DB%8C%D8%B3%D8%AA%D8%B1-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%DB%8C%D9%87%D8%A7%DB%8C-%D8%B4%D9%88%D8%AA%D8%B1-%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86/</guid>
+      <guid>https://0xafz.github.io/posts/%DA%A9%D8%A7%D9%87%D8%B4-%D8%AA%D8%A7%D8%AE%DB%8C%D8%B1-%D9%88-%D8%A8%D9%87%D8%A8%D9%88%D8%AF-%D8%B1%D8%AC%DB%8C%D8%B3%D8%AA%D8%B1-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%DB%8C%D9%87%D8%A7%DB%8C-%D8%B4%D9%88%D8%AA%D8%B1-%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86/</guid>
       <description>&lt;p&gt;توی این پست میخوام درمورد دوتا از چیزایی که تاثیر زیادی در بهتر شدن latency توی گیم داشته صحبت کنم&lt;br&gt;
 و اونا Qdisc یا Queue Discipline
 و Active Queue Management یا AQM هستن&lt;/p&gt;

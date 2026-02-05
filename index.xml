@@ -4,18 +4,30 @@
     <title>AFz</title>
     <link>https://0xafz.github.io/</link>
     <description>Recent content on AFz</description>
-    <generator>Hugo -- 0.152.2</generator>
+    <generator>Hugo -- 0.154.5</generator>
     <language>fa</language>
-    <lastBuildDate>Mon, 03 Nov 2025 02:01:18 +0330</lastBuildDate>
+    <lastBuildDate>Thu, 05 Feb 2026 10:07:56 +0330</lastBuildDate>
     <atom:link href="https://0xafz.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>کاهش تاخیر و بهبود رجیستر در بازی‌های شوتر آنلاین</title>
-      <link>https://0xafz.github.io/posts/%DA%A9%D8%A7%D9%87%D8%B4-%D8%AA%D8%A7%D8%AE%DB%8C%D8%B1-%D9%88-%D8%A8%D9%87%D8%A8%D9%88%D8%AF-%D8%B1%D8%AC%DB%8C%D8%B3%D8%AA%D8%B1-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%DB%8C%D9%87%D8%A7%DB%8C-%D8%B4%D9%88%D8%AA%D8%B1-%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86/</link>
+      <title>Deploy DNS Tunnels with Smuggler</title>
+      <link>https://0xafz.github.io/posts/deploy-dns-tunnels-with-smuggler/</link>
+      <pubDate>Thu, 05 Feb 2026 10:07:56 +0330</pubDate>
+      <guid>https://0xafz.github.io/posts/deploy-dns-tunnels-with-smuggler/</guid>
+      <description>&lt;p&gt;توی این آموزش میخوایم با استفاده از پروژه smuggler تونل &lt;strong&gt;dnstt&lt;/strong&gt; و &lt;strong&gt;slipstream&lt;/strong&gt; بیاریم بالا&lt;/p&gt;
+&lt;h3 id=&#34;پیشنیاز-های-این-آموزش&#34;&gt;پیش‌نیاز های این آموزش&lt;/h3&gt;
+&lt;p&gt;۱. ما نیاز به حداقل یه سرور خارج از ایران (آلمان، هلند، و &amp;hellip;) داریم (Debian/Ubuntu/RedHat/Fedora)&lt;br&gt;
+۲. حداقل یه domain ترجیحا روی Cloudflare&lt;br&gt;
+۳. برای استفاده از smuggler حتما باید یه سیستم لینوکسی در نقش کنترلر داشته باشیم&lt;br&gt;
+۴. برای راحتی پیشنهاد میشه که از کد ادیتور‌ هایی مثل &lt;strong&gt;vscode&lt;/strong&gt; استفاده کنید موقع کانفیگ کردن پروژه&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>کاهش پینگ و بهبود رجیستر در بازی‌های شوتر آنلاین</title>
+      <link>https://0xafz.github.io/posts/how-to-achieve-low-latency/</link>
       <pubDate>Mon, 03 Nov 2025 02:01:18 +0330</pubDate>
-      <guid>https://0xafz.github.io/posts/%DA%A9%D8%A7%D9%87%D8%B4-%D8%AA%D8%A7%D8%AE%DB%8C%D8%B1-%D9%88-%D8%A8%D9%87%D8%A8%D9%88%D8%AF-%D8%B1%D8%AC%DB%8C%D8%B3%D8%AA%D8%B1-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%DB%8C%D9%87%D8%A7%DB%8C-%D8%B4%D9%88%D8%AA%D8%B1-%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86/</guid>
+      <guid>https://0xafz.github.io/posts/how-to-achieve-low-latency/</guid>
       <description>&lt;p&gt;توی این پست میخوام درمورد دوتا از چیزایی که تاثیر زیادی در بهتر شدن latency توی گیم داشته صحبت کنم&lt;br&gt;
-و اونا Qdisc یا Queue Discipline
-و Active Queue Management یا AQM هستن&lt;/p&gt;
+و اونا (Qdisc) Queue Discipline
+و Active Queue Management (AQM)  هستن&lt;/p&gt;
 &lt;p&gt;فرض کنید که رفتید یدونه نون بگیرید و خیلی عجله دارید اما از شانس بدتون یه نفر دیگه تو صف جلوی شماست و گفته ۳۰۰ تا نون میخوام 🤣&lt;br&gt;
 و تو بدترین حالت شما باید صبر کنید تا نفر جلویی تمام اون ۳۰۰ تا نون رو جمع  کنه و بره تا شما بتونید یدونه نون بگیرید&lt;/p&gt;</description>
     </item>
